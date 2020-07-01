@@ -1,3 +1,9 @@
-.container {
-    background: red;
+html {
+    height: 100vh;
 }
+
+.container {
+    height: 50vh;
+    width: 100%;
+}
+
